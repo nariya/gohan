@@ -7,7 +7,8 @@
       "Bash(pip install:*)",
       "Bash(npm run dev:*)",
       "Bash(npx next lint:*)",
-      "Bash(lsof:*)"
+      "Bash(lsof:*)",
+      "Bash(curl:*)"
     ],
     "deny": []
   }

@@ -8,7 +8,11 @@
       "Bash(npm run dev:*)",
       "Bash(npx next lint:*)",
       "Bash(lsof:*)",
-      "Bash(curl:*)"
+      "Bash(curl:*)",
+      "WebFetch(domain:x.com)",
+      "Bash(rg:*)",
+      "Bash(find:*)",
+      "Bash(ls:*)"
     ],
     "deny": []
   }
